@@ -4,10 +4,6 @@
 
 ---
 
-## 🚀 About Me
-
-I am a **Cyber Security Student** diving deep into computer architecture, OS internals, and the low-level mechanics of software. I don't just study theory—I build hands-on projects, analyze malware structures, and research security mechanisms like EDR evasion under the hood.
-
 - 🔭 **Current Focus:** Developing Proof-of-Concepts (PoCs) for OS internals and researching EDR detection boundaries.
 - 🌱 **Learning Journey:** Sharpening my skills in **C** and **Assembly** for memory manipulation and system-level development.
 - ⚡ **Future Plans:** Expanding into **Arduino & Hardware Hacking** to develop custom hardware security tools.
