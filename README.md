@@ -16,7 +16,8 @@
 - **Languages:**  
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+  ![Assembly](https://shields.io)
+
 
 - **Core Domains:**  
   `Low-Level Development` | `Malware Mechanics & PoC Dev` | `OS Internals` | `OSINT`
