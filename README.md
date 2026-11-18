@@ -6,9 +6,6 @@
 
 - 🔭 **Current Focus:** Developing Proof-of-Concepts (PoCs) for OS internals.
 - 🌱 **Learning Journey:** Sharpening my skills in **C** and **Assembly** for memory manipulation and system-level development.
-- ⚡ **Future Plans:** Expanding into **Arduino & Hardware Hacking** to develop custom hardware security tools.
-- 🎯 **Side Interests:** Active **OSINT** practitioner
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -19,4 +16,4 @@
   ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 - **Core Domains:**  
-  `Low-Level Development` | `Malware Mechanics & PoC Dev` | `OS Internals` | `OSINT`
+  `Low-Level Development` | `Malware Mechanics & PoC Dev` | `OS Internals`
